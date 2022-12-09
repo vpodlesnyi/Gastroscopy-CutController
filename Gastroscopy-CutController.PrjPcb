@@ -80,7 +80,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=OQNXVVUG
 
 [Document3]
 DocumentPath=SCH\Gastroscopy-CutController_LED.SchDoc
@@ -114,7 +114,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=ETULRSQP
 
 [Document5]
 DocumentPath=SCH\Gastroscopy-CutController_Overview.SchDoc
@@ -148,7 +148,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=UCHAXDSB
 
 [Document7]
 DocumentPath=SCH\Gastroscopy-CutController_USB.SchDoc
@@ -165,7 +165,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=TTMDTNWO
 
 [Document8]
 DocumentPath=SCH\Gastroscopy-СutController_Title.SchDoc
@@ -233,7 +233,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=IRVDGLAS
 
 [Document12]
 DocumentPath=LIB\Gastroscopy-CutController.SchLib
@@ -250,7 +250,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=VCQBZBAD
 
 [Document13]
 DocumentPath=BOM\Gastroscopy-CutController.BomDoc
@@ -269,69 +269,103 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document14]
+DocumentPath=SCH\Gastroscopy-CutController_MCU.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document15]
+DocumentPath=SCH\Gastroscopy-CutController_USB.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [Parameter1]
-Name=GlobalRevisionSCH
-Value=0.1.0
+Name=GlobalAddress1
+Value=nab. reki Karpovki, d. 5/3E
 
 [Parameter2]
-Name=GlobalRevisionPCB
-Value=0.1.0
-
-[Parameter3]
-Name=GlobalRevisionBOM
-Value=0.1.0
-
-[Parameter4]
-Name=GlobalProjectTitle
-Value=Gastroscopy CutController
-
-[Parameter5]
-Name=GlobalJiraKey
-Value=GSTRCNTRL
-
-[Parameter6]
-Name=GlobalEngineer
-Value=Podlesnyi Vasilii
-
-[Parameter7]
-Name=GlobalDocumentTitle
-Value=Gastroscopy CutController
-
-[Parameter8]
-Name=GlobalDocumentSubtitle
-Value=Gastroscopy CutController
-
-[Parameter9]
-Name=GlobalDocumentNumberSCH
-Value=0000-0000
-
-[Parameter10]
-Name=GlobalDocumentNumberPCB
-Value=0000-0000
-
-[Parameter11]
-Name=GlobalDocumentNumberDrawingPCB
-Value=0000-0000
-
-[Parameter12]
-Name=GlobalDocumentNumberDrawingASM
-Value=0000-0000
-
-[Parameter13]
-Name=GlobalCompanyName
-Value=MRobot, LCC
-
-[Parameter14]
-Name=GlobalAddress3
-Value=Ph: +7 (911) 701-51-99
-
-[Parameter15]
 Name=GlobalAddress2
 Value=Saint-Petersburg, 197022
 
+[Parameter3]
+Name=GlobalAddress3
+Value=Ph: +7 (911) 701-51-99
+
+[Parameter4]
+Name=GlobalCompanyName
+Value=MRobot, LCC
+
+[Parameter5]
+Name=GlobalDocumentNumberDrawingASM
+Value=0000-0000
+
+[Parameter6]
+Name=GlobalDocumentNumberDrawingPCB
+Value=0000-0000
+
+[Parameter7]
+Name=GlobalDocumentNumberPCB
+Value=0000-0000
+
+[Parameter8]
+Name=GlobalDocumentNumberSCH
+Value=0000-0000
+
+[Parameter9]
+Name=GlobalDocumentSubtitle
+Value=Gastroscopy CutController
+
+[Parameter10]
+Name=GlobalDocumentTitle
+Value=Gastroscopy CutController
+
+[Parameter11]
+Name=GlobalEngineer
+Value=Podlesnyi Vasilii
+
+[Parameter12]
+Name=GlobalJiraKey
+Value=GSTRCNTRL
+
+[Parameter13]
+Name=GlobalProjectTitle
+Value=Gastroscopy CutController
+
+[Parameter14]
+Name=GlobalRevisionBOM
+Value=0.1.0
+
+[Parameter15]
+Name=GlobalRevisionPCB
+Value=0.1.0
+
 [Parameter16]
-Name=GlobalAddress1
-Value=nab. reki Karpovki, d. 5/3E
+Name=GlobalRevisionSCH
+Value=0.1.0
 
 [Configuration1]
 Name=Sources
