@@ -355,72 +355,76 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [GeneratedDocument1]
+DocumentPath=Project Outputs for Industrial-Controller\Design Rule Check - Gastroscopy-CutController.html
+DItemRevisionGUID=
+
+[GeneratedDocument2]
 DocumentPath=OUTPUT\STEP 3D\Gastroscopy-CutController_STEP_3D_Rev_0.1.0_No Variations.step
 DItemRevisionGUID=
 
 [Parameter1]
-Name=GlobalAddress1
-Value=nab. reki Karpovki, d. 5/3E
-
-[Parameter2]
-Name=GlobalAddress2
-Value=Saint-Petersburg, 197022
-
-[Parameter3]
-Name=GlobalAddress3
-Value=Ph: +7 (911) 701-51-99
-
-[Parameter4]
-Name=GlobalCompanyName
-Value=MRobot, LCC
-
-[Parameter5]
-Name=GlobalDocumentNumberDrawingASM
-Value=0000-0000
-
-[Parameter6]
-Name=GlobalDocumentNumberDrawingPCB
-Value=0000-0000
-
-[Parameter7]
-Name=GlobalDocumentNumberPCB
-Value=0000-0000
-
-[Parameter8]
-Name=GlobalDocumentNumberSCH
-Value=0000-0000
-
-[Parameter9]
-Name=GlobalDocumentSubtitle
-Value=Gastroscopy CutController
-
-[Parameter10]
-Name=GlobalDocumentTitle
-Value=Gastroscopy CutController
-
-[Parameter11]
-Name=GlobalEngineer
-Value=Podlesnyi Vasilii
-
-[Parameter12]
-Name=GlobalJiraKey
-Value=GSTRCNTRL
-
-[Parameter13]
-Name=GlobalProjectTitle
-Value=Gastroscopy CutController
-
-[Parameter14]
-Name=GlobalRevisionBOM
+Name=GlobalRevisionSCH
 Value=0.1.0
 
-[Parameter15]
+[Parameter2]
 Name=GlobalRevisionPCB
 Value=0.1.0
 
-[Parameter16]
-Name=GlobalRevisionSCH
+[Parameter3]
+Name=GlobalRevisionBOM
 Value=0.1.0
+
+[Parameter4]
+Name=GlobalProjectTitle
+Value=Gastroscopy CutController
+
+[Parameter5]
+Name=GlobalJiraKey
+Value=GSTRCNTRL
+
+[Parameter6]
+Name=GlobalEngineer
+Value=Podlesnyi Vasilii
+
+[Parameter7]
+Name=GlobalDocumentTitle
+Value=Gastroscopy CutController
+
+[Parameter8]
+Name=GlobalDocumentSubtitle
+Value=Gastroscopy CutController
+
+[Parameter9]
+Name=GlobalDocumentNumberSCH
+Value=0000-0000
+
+[Parameter10]
+Name=GlobalDocumentNumberPCB
+Value=0000-0000
+
+[Parameter11]
+Name=GlobalDocumentNumberDrawingPCB
+Value=0000-0000
+
+[Parameter12]
+Name=GlobalDocumentNumberDrawingASM
+Value=0000-0000
+
+[Parameter13]
+Name=GlobalCompanyName
+Value=MRobot, LCC
+
+[Parameter14]
+Name=GlobalAddress3
+Value=Ph: +7 (911) 701-51-99
+
+[Parameter15]
+Name=GlobalAddress2
+Value=Saint-Petersburg, 197022
+
+[Parameter16]
+Name=GlobalAddress1
+Value=nab. reki Karpovki, d. 5/3E
 
 [Configuration1]
 Name=Sources
@@ -1427,51 +1431,51 @@ MatchStrictly2=1
 PhysicalNamingFormat=$ComponentPrefix$GlobalIndex
 GlobalIndexSortOrder=1
 GlobalIndexSortLocation=0
-UniqueIDPath0=\YBWBUABX
-DocumentName0=Gastroscopy-CutController_Overview.SchDoc
+UniqueIDPath0=\YBWBUABX\BGUMMTZJ
+DocumentName0=Gastroscopy-CutController_LED.SchDoc
 IsEnabled0=1
 SelectionScope0=All
-Order0=8
+Order0=6
 IndexEnabled0=0
 IndexStartValue0=1
 Suffix0=
-UniqueIDPath1=\YBWBUABX\2UWJDGOEX
+UniqueIDPath1=\YBWBUABX\3UWJDGOEX
 DocumentName1=Gastroscopy-CutController_Button.SchDoc
 IsEnabled1=1
 SelectionScope1=All
-Order1=3
+Order1=4
 IndexEnabled1=0
 IndexStartValue1=1
 Suffix1=
-UniqueIDPath2=\YBWBUABX\3UWJDGOEX
-DocumentName2=Gastroscopy-CutController_Button.SchDoc
+UniqueIDPath2=\YBWBUABX\ZPABQTFB
+DocumentName2=Gastroscopy-CutController_USB.SchDoc
 IsEnabled2=1
 SelectionScope2=All
-Order2=4
+Order2=10
 IndexEnabled2=0
 IndexStartValue2=1
 Suffix2=
-UniqueIDPath3=
-DocumentName3=Gastroscopy-СutController_Title.SchDoc
+UniqueIDPath3=\YBWBUABX\2UWJDGOEX
+DocumentName3=Gastroscopy-CutController_Button.SchDoc
 IsEnabled3=1
 SelectionScope3=All
-Order3=11
+Order3=3
 IndexEnabled3=0
 IndexStartValue3=1
 Suffix3=
-UniqueIDPath4=\YBWBUABX\BGUMMTZJ
-DocumentName4=Gastroscopy-CutController_LED.SchDoc
+UniqueIDPath4=
+DocumentName4=Gastroscopy-СutController_Title.SchDoc
 IsEnabled4=1
 SelectionScope4=All
-Order4=6
+Order4=11
 IndexEnabled4=0
 IndexStartValue4=1
 Suffix4=
-UniqueIDPath5=\YBWBUABX\IBRDDTPK
-DocumentName5=Gastroscopy-CutController_Accelerometer.SchDoc
+UniqueIDPath5=\YBWBUABX
+DocumentName5=Gastroscopy-CutController_Overview.SchDoc
 IsEnabled5=1
 SelectionScope5=All
-Order5=1
+Order5=8
 IndexEnabled5=0
 IndexStartValue5=1
 Suffix5=
@@ -1483,35 +1487,35 @@ Order6=2
 IndexEnabled6=0
 IndexStartValue6=1
 Suffix6=
-UniqueIDPath7=\YBWBUABX\GNMELJUL
-DocumentName7=Gastroscopy-CutController_MCU.SchDoc
+UniqueIDPath7=\YBWBUABX\IBRDDTPK
+DocumentName7=Gastroscopy-CutController_Accelerometer.SchDoc
 IsEnabled7=1
 SelectionScope7=All
-Order7=7
+Order7=1
 IndexEnabled7=0
 IndexStartValue7=1
 Suffix7=
-UniqueIDPath8=\YBWBUABX\HSYBTUVH
-DocumentName8=Gastroscopy-CutController_Relay.SchDoc
+UniqueIDPath8=\YBWBUABX\4UWJDGOEX
+DocumentName8=Gastroscopy-CutController_Button.SchDoc
 IsEnabled8=1
 SelectionScope8=All
-Order8=9
+Order8=5
 IndexEnabled8=0
 IndexStartValue8=1
 Suffix8=
-UniqueIDPath9=\YBWBUABX\ZPABQTFB
-DocumentName9=Gastroscopy-CutController_USB.SchDoc
+UniqueIDPath9=\YBWBUABX\HSYBTUVH
+DocumentName9=Gastroscopy-CutController_Relay.SchDoc
 IsEnabled9=1
 SelectionScope9=All
-Order9=10
+Order9=9
 IndexEnabled9=0
 IndexStartValue9=1
 Suffix9=
-UniqueIDPath10=\YBWBUABX\4UWJDGOEX
-DocumentName10=Gastroscopy-CutController_Button.SchDoc
+UniqueIDPath10=\YBWBUABX\GNMELJUL
+DocumentName10=Gastroscopy-CutController_MCU.SchDoc
 IsEnabled10=1
 SelectionScope10=All
-Order10=5
+Order10=7
 IndexEnabled10=0
 IndexStartValue10=1
 Suffix10=
